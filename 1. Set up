@@ -1,0 +1,8 @@
+1. If the docker cannot start properly (cannot find the container apollo_dev_unnc), try:
+   a) running the command to restart the docker: (service docker restart)
+   b) try again
+
+2. Everytime wants to exit the container, must do the following:
+   a) enter a separate terminal window
+   b) running command:(./docker/scripts/dev_start.sh stop)
+	

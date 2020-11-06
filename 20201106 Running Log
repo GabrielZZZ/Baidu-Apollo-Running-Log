@@ -1,0 +1,5 @@
+20201106 Running Log
+
+- Seems to fnd the reason why Apollo cannot practice correcting routing function sometimes: It happens when I reset the position in the LGSVL simulator by pressing F12 key on the keyboard.
+  Since Apollo believes it is controlling the real car, simply reset the position in the LGSVL simulator may not work. although the position of the car in the Apollo Dreaview also reset. That could be the reason.
+  
