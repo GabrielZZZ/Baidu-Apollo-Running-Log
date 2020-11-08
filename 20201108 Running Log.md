@@ -9,3 +9,4 @@
   - the Dreamland and LGSVL simulator become smoother with increasing FPS and faster moving cars. 
   - now the obstacles can show completely and correctly in the dreamview.
   - the traffic light and navigation modules behave correctly.
+  ![Screenshot](https://github.com/GabrielZZZ/Baidu-Apollo-Running-Log/blob/main/Pictures/Screenshot%20from%202020-11-08%2019-49-48.png)
