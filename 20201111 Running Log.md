@@ -10,3 +10,4 @@
 
 ## Notes
 - Based on the present situation, it may be hard to replicate the existing research since it was studying the perception module of the Apollo system.
+- **OR consider performing the experiment without LGSVL Simulator since Apollo 6th has fully supported RTX 2080.**
