@@ -2,6 +2,7 @@
 
 ## Challenges
 - Perception and traffic light module still did not work properly
+- The frame ratio is very low
 
 ## Progress
 - Fix the Apollo Dreeamview problem by re-cloning the apollo master branch
