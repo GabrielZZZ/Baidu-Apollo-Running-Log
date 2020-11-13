@@ -9,3 +9,4 @@
   - Also the speed is extremely slow
 - Figure out the usage of demo given by Apollo project
   - It turns off the perception and traffic light module
+  - If I want to test the perception module, I have to go to LGSVL Simulator (for now)
