@@ -14,3 +14,4 @@
       - Pedestrians (pink)
       - Cyclists (blue)
       - Unknown elements (purple)"
+   - link: https://github.com/ApolloAuto/apollo/blob/r6.0.0/docs/howto/how_to_run_offline_sequential_obstacle_perception_visualizer.md
