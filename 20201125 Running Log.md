@@ -2,7 +2,7 @@
 
 # Challenges
 - Cannot run the command `/apollo/bazel-bin/modules/perception/tool/offline_visualizer_tool/offline_sequential_obstacle_perception_test` successfully since it will give the error about OpenGL (in Apollo 2.5):
-
+![Screenshot](https://github.com/GabrielZZZ/Baidu-Apollo-Running-Log/blob/main/Pictures/Screenshot%20from%202020-11-25%2020-14-59.png)
   - It seems to be the driver problem of Nvidia. It may need to reinstall the older version of driver (the worst case).
   - Related Issues:
     - https://github.com/ApolloAuto/apollo/issues/2362
