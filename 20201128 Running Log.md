@@ -2,6 +2,7 @@
 
 # Challenges
 - Inside the docker, the command `nvidia-smi` does not work ("Command not found").
+  - Solved it by reinstalled the docker.
 
 
 # Progress
